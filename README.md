@@ -1,6 +1,6 @@
 # Hi, I'm Lameck Irungu 
 
-Welcome to my GitHub profile! I'm a passionate Web Developer and Freelancer based in Nairobi, Kenya. I specialize in building modern web applications using the MERN stack and deploying them seamlessly with Vercel. I love working with Git and Redux to create robust, scalable solutions.
+Welcome to my GitHub profile! Software developer specializing in backend and cloud systems. Currently enhancing expertise through Backend Web Development and AWS (Practitioner & Solutions Architect) certifications with ALX.
 
 ---
 
@@ -13,7 +13,6 @@ Welcome to my GitHub profile! I'm a passionate Web Developer and Freelancer base
 - How to reach me: mugolameck@gmail.com
 - Connect with me on [LinkedIn](https://linkedin.com/in/lameckirungu)
 - Nairobi, Kenya
-- Prnouns: he/him
 
 ---
 
