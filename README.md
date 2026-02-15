@@ -1,15 +1,20 @@
 # Hi, I'm Lameck Irungu 
 
-Welcome to my GitHub profile! Software developer specializing in backend and cloud systems. Currently enhancing expertise through Backend Web Development and AWS (Solutions Architect) certifications with ALX.
+Welcome to my GitHub profile! Software developer specializing in backend and cloud systems. Currently enhancing expertise through Backend Web Development and AWS (Solutions Architect) certifications with [ALX](alxafrica.com).
 
 ---
 
 ## About Me
 
-- I’m currently building full-stack web projects.
-- I’m looking to collaborate on open source Python projects and innovative web apps.
-- 💬 Ask me about Python, Vanilla JS, Vercel, and Git.
-- How to reach me: mugolameck@gmail.com
+- I’m currently building full-stack web projects but specializes in Python Backend.
+- Mostly use these tools and technologies: 
+  - Languages: Python, Bash, Vanilla JS, HTML
+  - APIs: DRF
+  - Databases: Relational DBs
+  - CI/CD: Github Actions, Docker
+  - I'm mostly familiar with AWS Cloud.
+- 
+- Reach me @`mugolameck@gmail.com`
 - Connect with me on [LinkedIn](https://linkedin.com/in/lameckirungu)
 - Nairobi, Kenya
 
@@ -24,12 +29,4 @@ Welcome to my GitHub profile! Software developer specializing in backend and clo
 
 ---
 
-
-## 📈 GitHub Stats
-
-![Lameck's GitHub stats](https://github-readme-stats.vercel.app/api?username=lameckirungu&show_icons=true&hide_title=true&count_private=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lameckirungu&layout=compact&theme=default)
-
----
-
-Thank you for visiting my profile! ⭐️
+Thank you for passing by..! ⭐️
