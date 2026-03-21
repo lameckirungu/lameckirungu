@@ -6,10 +6,10 @@ Welcome to my GitHub profile! Software developer specializing in backend and clo
 
 ## About Me
 
-- I’m currently building full-stack web projects but specializes in Python Backend.
+- I’m currently building full-stack web projects but specializes in Backend, with additional focus on DevOps practices.
 - Mostly use these tools and technologies: 
-  - Languages: Python, Bash, Vanilla JS, HTML
-  - APIs: DRF
+  - Languages: Python, Java, Bash, Vanilla JS, HTML
+  - APIs: RESTful APIs
   - Databases: Relational DBs
   - CI/CD: Github Actions, Docker
   - I'm mostly familiar with AWS Cloud.
